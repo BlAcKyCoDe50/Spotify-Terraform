@@ -65,8 +65,6 @@ Before you begin, ensure you have met the following requirements:
 
 3. After successful authentication, Terraform will create the playlist with the specified tracks.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 If you would like to contribute to this project, please open an issue or submit a pull request.
