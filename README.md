@@ -70,6 +70,7 @@ Before you begin, ensure you have met the following requirements:
 If you would like to contribute to this project, please open an issue or submit a pull request.
 
 ## Acknowledgements
+- [Official Documentation](https://developer.hashicorp.com/terraform/tutorials/community-providers/spotify-playlist)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api/)
 - [Terraform](https://www.terraform.io/)
 - [Terraform Spotify Provider](https://registry.terraform.io/providers/conradludgate/spotify/0.2.7)
